@@ -1,3 +1,5 @@
+/* this is absolutely boring training */
+
 #include <stdio.h> 
 
 int main () 
